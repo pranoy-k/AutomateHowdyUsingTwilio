@@ -8,4 +8,4 @@ Created on Sun Aug 13 05:15:17 2017
 
 username = 'kpranoy@tamu.edu'
 
-password = 'Amdap#1968'
+password = ''
